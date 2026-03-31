@@ -1,4 +1,0 @@
-Hello World!
-
-Dies ist das erste Dokument des Website V1 Projekts.
-Erstellt am 30.03.2026.
